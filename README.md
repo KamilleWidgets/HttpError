@@ -37,6 +37,10 @@ This model contains the following variables:
 History Log
 ------------------
     
+- 1.0.1 -- 2017-04-06
+
+    - fix forgot HttpErrorWidgetInstaller
+
 - 1.0.0 -- 2017-04-06
 
     - initial commit
