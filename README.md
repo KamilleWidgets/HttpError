@@ -62,6 +62,10 @@ $conf = [
 History Log
 ------------------
     
+- 1.1.0 -- 2017-04-07
+
+    - add css file
+
 - 1.0.1 -- 2017-04-06
 
     - fix forgot HttpErrorWidgetInstaller
