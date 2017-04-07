@@ -12,9 +12,6 @@ Widget for displaying an HttpError.
 This is a widget for the [kamille framework](https://github.com/lingtalfi/Kamille).
 
 
-[![httpError.png](https://s19.postimg.org/67p6tz7c3/http_Error.png)](https://postimg.org/image/ppju9x49r/)
-
-
 Install
 ===========
 using the [kamille installer tool](https://github.com/lingtalfi/kamille-installer-tool)
@@ -65,6 +62,10 @@ $conf = [
 History Log
 ------------------
     
+- 1.1.2 -- 2017-04-07
+
+    - fix theme files
+
 - 1.1.1 -- 2017-04-07
 
     - fix template
