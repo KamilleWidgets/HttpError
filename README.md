@@ -65,6 +65,10 @@ $conf = [
 History Log
 ------------------
     
+- 1.1.1 -- 2017-04-07
+
+    - fix template
+
 - 1.1.0 -- 2017-04-07
 
     - add css file
