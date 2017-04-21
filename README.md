@@ -44,7 +44,7 @@ $conf = [
     ],
     "widgets" => [
         "main.httpError" => [
-            "name" => "httpError/default",
+            "name" => "HttpError/default",
             "conf" => [
                 "code" => 404,
                 "text" => "Page not found",
